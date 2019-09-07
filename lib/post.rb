@@ -18,6 +18,7 @@
 # end
 
 class Post
+  @@all=[]
   
 end
 
