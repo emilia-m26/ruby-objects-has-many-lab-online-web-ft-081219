@@ -40,6 +40,7 @@ class Author
     Post.all.select do |post|
       post.artist==self
     end
+  end
 end
 
 
