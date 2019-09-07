@@ -20,6 +20,8 @@
 class Post
   @@all=[]
   
+  def all 
+  
 end
 
 
