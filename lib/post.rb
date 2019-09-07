@@ -17,6 +17,9 @@
   
 # end
 
+class Post
+  
+end
 
 
 
