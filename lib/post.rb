@@ -16,32 +16,3 @@ class Post
 #   end
   
 end
-
-class Post
-  @@all=[]
-  
-  def all 
-  
-end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
